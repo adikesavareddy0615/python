@@ -21,3 +21,15 @@ day2
 8.Given an input string s and a pattern p 
 9.The year is divided into four seasons 
 10.common in two strings
+
+day 3
+1.shares
+2.project
+3.array of integers
+4.add binarry
+5.max no.of steps
+6.mirror image
+7.permutations
+8.anagram
+9.pattern
+10.operations
